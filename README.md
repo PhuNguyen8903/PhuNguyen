@@ -9,11 +9,17 @@
 
 ### Connect with me:
 
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg)](https://vincent.com)
+<a href="https://vincent.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30px" />
+</a>
 &nbsp;&nbsp;
-[![linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/phú-nguyễn-a951b2345/)
+<a href="https://www.linkedin.com/in/phú-nguyễn-a951b2345/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
+</a>
 &nbsp;&nbsp;
-[![gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:ngngocphu8903@gmail.com)
+<a href="mailto:ngngocphu8903@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" />
+</a>
 
 ### Languages and Tools:
 
